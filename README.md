@@ -14,10 +14,14 @@ My main interest is in web development especially in php and java . I izing some
 - Ida Bifulco, Rita Francese, Marco Lettieri, Luca Liscio, Ignazio Passero, Genny Tortora **"Un Seriuos Game basato su Mondi Virtuali per supportare l'apprendimento di Educazione Ambientale"** - In: SIEL 2011 - VIII Congresso della Società Italiana di e-Learning SIEL - Società italiana di eLearning Pag.159 - 165 ISBN:9788895994765 – ID:36422 Contributo in Atti di convegno (273)
 
 ## Back-end
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%2523007BB8.svg?style=for-the-badge&logo=openjdk&color=%23547C99) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%2523007BB8.svg?style=for-the-badge&logo=openjdk&color=%23547C99) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Front-end
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Static Badge](https://img.shields.io/badge/uikit-%2523007BB8.svg?style=for-the-badge&logo=UiKit&logoColor=%23ffffff&color=%232396F3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%2523007BB8.svg?style=for-the-badge&logo=Angular&color=%23B82323)
+![HTML5](https://img.shields.io/badge/html5-%2523007BB8.svg?style=for-the-badge&logo=html5&logoColor=%23ffffff&color=%23E34F26)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![UIKIT](https://img.shields.io/badge/uikit-%2523007BB8.svg?style=for-the-badge&logo=UiKit&logoColor=%23ffffff&color=%232396F3) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%2523007BB8.svg?style=for-the-badge&logo=Angular&color=%23B82323)
 
 
 ### Databases
