@@ -14,7 +14,7 @@ My main interest is in web development especially in php and java . I izing some
 - Ida Bifulco, Rita Francese, Marco Lettieri, Luca Liscio, Ignazio Passero, Genny Tortora **"Un Seriuos Game basato su Mondi Virtuali per supportare l'apprendimento di Educazione Ambientale"** - In: SIEL 2011 - VIII Congresso della Società Italiana di e-Learning SIEL - Società italiana di eLearning Pag.159 - 165 ISBN:9788895994765 – ID:36422 Contributo in Atti di convegno (273)
 
 ## Back-end
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
