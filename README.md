@@ -1,5 +1,17 @@
 ## Hi there 👋
-At this time i'm a Busines Consutant at Informatica 80 Software S.r.l Carpi(MO), Italy. My main interest is in web development.
+At this time i'm a Busines Consultant at INFORMATICA 80 Group - Carpi (MO), Italy.
+
+My main interest is in web development especially in php and java . I izing some php projects that are visible on my page github.
+
+###My scientific publications:
+
+- Ciro D'Apice, Claudia Grieco, Rossella Piscopo, Luca Liscio "DMS2015 short - 2: Advanced learning technologies for eLearning in the enterprise: Design of an Educational   Adventure Game to teach computer security" - Journal of Visual Languages & Computing, Volume 31, Part B, December 2015, Pages 260 - 266
+
+- Ciro D'Apice, Claudia Grieco, Rossella Piscopo, Luca Liscio "Design of an Educational Adventure Game to teach computer security in the working environment" - In Proceedings of 2015 International Workshop on Distance Education Technologies (DET 2015 ) Pag.179 - 185, Shi-Kuo Chang. ISBN:1-891706-38-1 - ID:74085 -Contributo in volume (Capitolo o Saggio) (268)
+
+- da Bifulco, Rita Francese, Marco Lettieri, Luca Liscio, Ignazio Passero, Genny Tortora "The TIE Project: Agile Development of a Virtual World Serious Game on Waste Disposal" - In: The 17th International Conference on Distributed Multimedia Systems Knowledge Systems Institute, USA Pag.204 - 209 ISBN:9781891706301 ID:36447 - Contributo in Atti di convegno (273)
+
+- Ida Bifulco, Rita Francese, Marco Lettieri, Luca Liscio, Ignazio Passero, Genny Tortora "Un Seriuos Game basato su Mondi Virtuali per supportare l'apprendimento di Educazione Ambientale" - In: SIEL 2011 - VIII Congresso della Società Italiana di e-Learning SIEL - Società italiana di eLearning Pag.159 - 165 ISBN:9788895994765 – ID:36422 Contributo in Atti di convegno (273)
 
 ## Back-end
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
