@@ -29,6 +29,7 @@ My main interest is in web development especially in php and java . I izing some
 ![Angular](https://img.shields.io/badge/angular-%2523007BB8.svg?style=for-the-badge&logo=Angular&color=%23B82323)
 
 ## Databases
+![MariaDB](https://img.shields.io/badge/mariadb-%2523007BB8.svg?style=for-the-badge&logo=mariadb&logoColor=%23ffffff&color=%23003545)
 ![MySQL](https://img.shields.io/badge/mysql-%2523007BB8.svg?style=for-the-badge&logo=mysql&logoColor=%23ffffff&color=%234479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
