@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 At this time i'm a Busines Consultant at INFORMATICA 80 Group - Carpi (MO), Italy.
 
 My main interest is in web development especially in php and java . I izing some php projects that are visible on my page github.
 
-### My scientific publications:
+## My scientific publications:
 
 - Ciro D'Apice, Claudia Grieco, Rossella Piscopo, Luca Liscio "DMS2015 short - 2: Advanced learning technologies for eLearning in the enterprise: Design of an Educational   Adventure Game to teach computer security" - Journal of Visual Languages & Computing, Volume 31, Part B, December 2015, Pages 260 - 266
 
