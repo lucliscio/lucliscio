@@ -22,6 +22,7 @@ My main interest is in web development especially in php and java . I izing some
 ## Front-end
 ![HTMAL5](https://img.shields.io/badge/html5-%2523007BB8.svg?style=for-the-badge&logo=html5&color=%23323330)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![CSS](https://img.shields.io/badge/css-%2523007BB8.svg?style=for-the-badge&logo=css&logoColor=%23663399&color=%23323330)
 ![UIKIT](https://img.shields.io/badge/uikit-%2523007BB8.svg?style=for-the-badge&logo=UiKit&logoColor=%23ffffff&color=%232396F3) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
