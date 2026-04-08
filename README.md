@@ -14,7 +14,7 @@ My main interest is in web development especially in php and java . I izing some
 - Ida Bifulco, Rita Francese, Marco Lettieri, Luca Liscio, Ignazio Passero, Genny Tortora **"Un Seriuos Game basato su Mondi Virtuali per supportare l'apprendimento di Educazione Ambientale"** - In: SIEL 2011 - VIII Congresso della Società Italiana di e-Learning SIEL - Società italiana di eLearning Pag.159 - 165 ISBN:9788895994765 – ID:36422 Contributo in Atti di convegno (273)
 
 ## Back-end
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-%2523007BB8.svg?style=for-the-badge&logo=openjdk) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%2523007BB8.svg?style=for-the-badge&logo=openjdk&color=%23547C99) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Front-end
 
