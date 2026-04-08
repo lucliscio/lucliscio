@@ -1,9 +1,7 @@
 ## Hi there 👋
-
-- He/him
+At this time i'm a Busines Consutant at Informatica 80 Software S.r.l Carpi(MO), Italy. My main interest is in web development.
 
 ## Back-end
-
 - ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
