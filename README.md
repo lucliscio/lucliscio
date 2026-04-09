@@ -43,8 +43,6 @@ My main interest is in web development especially in php and java . I izing some
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## GITHUB Statistics
-![LucLiscio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucliscio&hide=contribs,prs)
-
 <p>
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=lucliscio&theme=react"></a>
 </p>
