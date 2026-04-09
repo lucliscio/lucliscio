@@ -39,24 +39,10 @@ My main interest is in web development especially in php and java . I izing some
 
 ![Open Source Contributor](https://img.shields.io/badge/open%20source%20contributor-239120?style=for-the-badge&logo=hand&logoColor=white)
 
-### Linux System Adminstration
+## Linux System Adminstration
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-* ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-* ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-<img alt="RHCSA" src="https://i.imgur.com/W8L1HG7.png" />
-<img alt="RHCE" src="https://i.imgur.com/OLuhWjJ.png" />
-
-### Database System
-
-<img width="300" height="300" alt="comptia-datasys-ce-certification" src="https://github.com/user-attachments/assets/c3bf62ee-8bce-409e-9598-5f74c90f922e" />
-
-<img width="300" height="300" alt="comptia-data-ce" src="https://github.com/user-attachments/assets/23877511-65e3-4747-b9d7-9922620b2871" />
-
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter279k)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peter279k&layout=compact)
-
+## GITHUB Statistics
 ![LucLiscio's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucliscio&hide=contribs,prs)
 
 <p>
